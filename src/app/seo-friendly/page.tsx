@@ -7,6 +7,7 @@ export default function Page() {
     <>
       <h1>Test Metadata</h1>
       <h2>Making open graph img</h2>
+      <h2>fixe openggraph image</h2>
     </>
   );
 }
